@@ -84,7 +84,7 @@ class CI_URI {
 	public $rsegments = array();
 
 	/**
-	 * Associative array of URI data
+	 * Associative array of URI config
 	 *
 	 * @var	array
 	 */
